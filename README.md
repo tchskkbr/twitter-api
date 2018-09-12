@@ -1,2 +1,2 @@
 # twitter-api
-twitter log analysis
+### this repository is to show twitter timeline.
